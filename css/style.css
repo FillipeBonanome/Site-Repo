@@ -162,3 +162,11 @@ body {
     font-weight: 400;
     margin: 1rem;
 }
+
+footer {
+    padding: 1rem 0;
+    text-align: center;
+    background-color: var(--background-color-lighter);
+    color: var(--text-color-gray);
+    margin-top: 1rem;
+}
